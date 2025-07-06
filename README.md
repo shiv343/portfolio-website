@@ -20,8 +20,6 @@ This portfolio website is built using modern web technologies to ensure high per
 - **Performance Optimization:** Lazy loading, code splitting, and minification techniques to enhance speed and efficiency
 - **Analytics & SEO:** Google Analytics, structured metadata, and SEO optimization for better visibility
 
-## 🎨 Screenshots
-_(Include screenshots or GIFs showcasing the design and features of the portfolio website)_
 
 ## 🚀 Getting Started
 ### Prerequisites
